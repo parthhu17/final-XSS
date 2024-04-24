@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "as_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
